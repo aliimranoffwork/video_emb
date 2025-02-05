@@ -13,7 +13,7 @@
 
   // Predefined iframe source URL with the videoId appended
   // Replace "https://example.com/embed/" with your actual endpoint
-  var iframeSrc = "https://kaaymond.net/cdn/shop/files/preview_images/4fa90398de784387969fb1c32caa406a.thumbnail.0000000000.jpg?v=1717487457&width=2400" + videoId;
+  var iframeSrc = "https://kaaymond.net/cdn/shop/videos/c/vp/4fa90398de784387969fb1c32caa406a/4fa90398de784387969fb1c32caa406a.HD-1080p-2.5Mbps-30002973.mp4?v=0" + videoId;
 
   // Create the iframe element
   var iframe = document.createElement('iframe');
